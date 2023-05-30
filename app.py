@@ -66,8 +66,8 @@ if number_plate_cnt is not None:
 #Afficher la sortie finale
 cv2.imshow("Output", image)
 
-# Wait for user input before closing the displayed images
+# Attendre la saisie de l'utilisateur avant de fermer les images affichées
 cv2.waitKey(0)
 
-# Close all windows
+# Fermez toutes les fenêtres
 cv2.destroyAllWindows()

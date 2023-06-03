@@ -71,3 +71,4 @@ cv2.waitKey(0)
 
 # Fermez toutes les fenêtres
 cv2.destroyAllWindows()
+print("good by")
